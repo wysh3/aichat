@@ -2,8 +2,6 @@
 
 A modern web-based chat interface for interacting with AI models using custom APIs. Features a responsive design with conversation history management, syntax highlighting for code blocks, and LaTeX math rendering.
 
-![Chat Interface](screenshot.png)
-
 ## Features
 
 - **Conversation History**: Save and manage multiple chat conversations
@@ -55,7 +53,3 @@ Modern web browser with JavaScript enabled (Chrome, Firefox, Safari, Edge)
 - All settings and conversations are stored in browser's localStorage
 - The interface expects an OpenAI-compatible API endpoint
 - For security, API keys are not transmitted anywhere except to your specified endpoint
-
-## License
-
-MIT License
