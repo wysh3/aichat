@@ -53,3 +53,7 @@ Modern web browser with JavaScript enabled (Chrome, Firefox, Safari, Edge)
 - All settings and conversations are stored in browser's localStorage
 - The interface expects an OpenAI-compatible API endpoint
 - For security, API keys are not transmitted anywhere except to your specified endpoint
+
+## NOTE:
+
+This was just created using R1-0528 and V3-0324 to test it.
